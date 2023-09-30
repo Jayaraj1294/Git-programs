@@ -1,0 +1,42 @@
+body{
+	background-color:lightblue;
+}
+h1{
+	background-color:white;
+	padding:20px;
+	color:blue;
+}
+hr{
+	border-color:blue;
+}
+.container{
+	background-color:whitesmoke;
+}
+#img1{
+	margin-left:20px;
+}
+#img2{
+	margin-left:550px;
+}
+#style{
+	border-radius:3px; 
+	border:1px solid black
+}
+#boy{
+	border:1px solid black;
+}
+#select{
+	border-radius:3px; border:1px solid black;
+}
+#SUBMIT{
+	background-color:green;
+	color:white; 
+	border-radius:9px;
+	border:5px solid green;
+}
+#RESET{
+	background-color:red; 
+	color:white; 
+	border-radius:9px;
+	border:5px solid red;
+}
